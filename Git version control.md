@@ -20,24 +20,6 @@ Git is a distributed version control system that allows multiple people to work 
 ### Git Tools:
 
 1. **Git Bash:**
-   - A command-line interface for interacting with Git on Windows.
-
-2. **Git GUI:**
-   - A graphical user interface for Git, providing a visual representation of your repository's history and changes.
-
-3. **GitHub, GitLab, Bitbucket:**
-   - Platforms that host Git repositories remotely.
-   - They offer collaboration features, issue tracking, and more.
-
-4. **SourceTree, GitKraken:**
-   - Git GUI clients that simplify Git operations with a graphical interface.
-
-5. **Gitignore:**
-   - A file that specifies intentionally untracked files to be ignored.
-
-### Git Tools:
-
-1. **Git Bash:**
    - A command-line interface that allows users to interact with Git using text commands. It's commonly used on Windows.
 
 2. **Git GUI:**
