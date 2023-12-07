@@ -62,6 +62,7 @@ Emphasizes the importance of early testing.
 Combines the idea of iteration with the systematic aspects of the waterfall model.
 The development process is represented as a spiral, with each loop representing a phase (planning, risk analysis, engineering, testing).
 Especially useful for large, complex projects with a high level of risk.
+
 ![Alt text](Sprial_Model_Image.jpg)
 
 **Big Bang Model:**
